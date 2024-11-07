@@ -5,7 +5,7 @@ aws_region = "ca-central-1"
 lambda_role_name = "DynamoDBSecretsAndLoggingAccess_role"
 
 # Name of the encryption key
-encryption_key_name = "EncryptionKey"
+encryption_key_name = "Encryption_Key"
 
 # Name of the dynamodb table
 dynamodb_table_name = "PaymentTokens"
